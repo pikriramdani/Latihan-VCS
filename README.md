@@ -119,3 +119,11 @@ Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New R
 
 * Untuk menambahkan remote repository server, gunakan perintah git remote add original [url] $ git remote add origin
 [click here](https://github.com/pikriramdani/Latihan-VCS)
+
+## Push (Mengirim Perubahan Ke Server)
+
+* Untuk mengirim perubahan pada local repository ke server gunakan perintah git push
+
+* perintah ini akan meminta memasukan username dan password pada akun github.com $ git push -u origin master
+
+![download git-push](coding-git/git-push.PNG)
