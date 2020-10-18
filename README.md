@@ -9,7 +9,7 @@ KELAS   : TI.20.A.1
 
 ## langkah-langkah penggunaan git
 
-* Langkah pertama Download Git,buka website resminya git [click here](https://git-scm-com)
+* Langkah pertama Download Git,buka website resminya git [click here](https://git-scm.com)
 
 ![download git-scm](coding-git/git-scm.PNG) 
 
