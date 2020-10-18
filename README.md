@@ -104,3 +104,11 @@ KELAS   : TI.20.A.1
 Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New Repository
 
 ![download github-createnew](coding-git/github-createnew.PNG)
+
+## Membuat Repository Server
+
+* Isi nama repositorynya, misal:Latihan-VCS
+
+* Lalu klik tombol create repository
+
+![download github-newrepo](coding-git/github-newrepo.PNG)
