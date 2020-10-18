@@ -29,8 +29,10 @@ KELAS   : TI.20.A.1
 
  * apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit
 
- * config global repository $ git config --global user.name "masukan.nama.anda"
+ * config global repository $ git config --global user.name "masukan nama anda"
 
 ![download git-username](coding-git/git-username.PNG)
 
- * $ git config --global user.email "masukan.email.anda"
+ * $ git config --global user.email "masukan email anda"
+
+ ![download git-user.email](coding-git/useremail.PNG)
