@@ -91,6 +91,6 @@ KELAS   : TI.20.A.1
 
 * Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m "Komentar Commit"
 
-* Perubahan berhasil disimpan. $ git commit -m "File Pertama Saya"
+* Perubahan berhasil disimpan. $ git commit -m "update README.md"
 
-![download git-filepertamasaya](coding-git/git-filepertamasaya.PNG)
+![download git-commit](coding-git/git-commit.PNG)
