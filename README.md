@@ -112,3 +112,10 @@ Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New R
 * Lalu klik tombol create repository
 
 ![download github-newrepo](coding-git/github-newrepo.PNG)
+
+## Menambahkan Remote Repositorynya
+
+* Remote Repositorynya merupakan server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
+
+* Untuk menambahkan remote repository server, gunakan perintah git remote add original [url] $ git remote add origin
+[click here](https://github.com/pikriramdani/Latihan-VCS)
