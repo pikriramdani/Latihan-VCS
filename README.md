@@ -157,3 +157,5 @@ Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New R
 * Untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada [url] berikut:
 
 [click here](https://markdownguide.org/basic-syntax)
+
+##              Terima Kasih
