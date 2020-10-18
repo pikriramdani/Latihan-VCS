@@ -35,4 +35,4 @@ KELAS   : TI.20.A.1
 
  * $ git config --global user.email "masukan email anda"
 
- ![download git-user.email](coding-git/useremail.PNG)
+ ![download git-user.email](coding-git/git-useremail.PNG)
