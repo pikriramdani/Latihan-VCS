@@ -59,11 +59,11 @@ KELAS   : TI.20.A.1
 
  * Click kanan pada directory aktif tersebut, dan pilih menu Git Bash, sehinga muncul Git Bash, sehingga muncul Git Bash commad
 
- * Buat directory project praktikum pertama dengan nama latihan1
-
+ * Buat directory project praktikum pertama dengan nama latihanVCS
+ 
  * Sehingga terbentuk satu directory baru dibawahnya, selanjutnya masuk kedalam directory tersebut dengan perintah cd (change directory)
 
-* Directory aktif menjadi: d:/labs_pemrograman1/latihan1 $ mkdir latihan1 $ cd latihan1
+* Directory aktif menjadi: d:/labs_pemrograman1/latihanVCS $ mkdir latihanVCS $ cd latihanVCS
 
 ## Membuat Repository Local
 
@@ -79,7 +79,7 @@ KELAS   : TI.20.A.1
 
 * Disini kita akan coba buat satu file bernama README.md(text file)
 
-* File README.md berhasil dibuat. $ echo "# latihan 1">>README.md
+* File README.md berhasil dibuat. $ echo "#latihanVCS">>README.md
 
 ![download git-latihanvcs](coding-git/git-latihanvcs.PNG)
 
