@@ -137,3 +137,11 @@ Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New R
 * Maka perubahan akan terlihat pada laman tersebut
 
 ![download github-view1](coding-git/github-view1.PNG)
+
+## Clone Repository
+
+* Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu directory sesuai dengan nama repositorynya (working directory)
+
+* untuk melakukan cloning, gunakan perintah git clone [url]
+
+![download git-clone](coding-git/git-clone.PNG)
