@@ -7,4 +7,5 @@ NIM   : 312010162
 
 KELAS : TI.20.A.1
 
-Teknik Informatika
+# langkah-langkah penggunaan git
+* Download Git,buka website resminya git [click here](https://git-scm-com)
