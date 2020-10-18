@@ -93,4 +93,4 @@ KELAS   : TI.20.A.1
 
 * Perubahan berhasil disimpan. $ git commit -m "File Pertama Saya"
 
-![download git-filepertamasaya]()
+![download git-filepertamasaya](coding-git/git-filepertamasaya.PNG)
