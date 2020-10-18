@@ -57,7 +57,7 @@ KELAS   : TI.20.A.1
 
  * Buka directory aktif, misal: d:/labs_pemrograman1 (buka menggunakan Windows Explorer)
 
- * Click kanan pada directory aktif tersebut, dan pilih menu Git Bash, sehinga muncul Git Bash, sehingga muncul Git Bash commad
+ * klik kanan pada directory aktif tersebut, dan pilih menu Git Bash, sehinga muncul Git Bash, sehingga muncul Git Bash commad
 
  * Buat directory project praktikum pertama dengan nama latihanVCS
 
@@ -99,4 +99,8 @@ KELAS   : TI.20.A.1
 
 * Server repository yang akan kita gunakan adalah [click here](http://github.com)
 
-*
+* Anda harus membuat akun terlebih dahulu 
+
+Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New Repository
+
+![download github-createnew](coding-git/github-createnew.PNG)
