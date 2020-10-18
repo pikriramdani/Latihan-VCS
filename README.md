@@ -18,3 +18,5 @@ KELAS   : TI.20.A.1
 ![download git-bit](coding-git/git-bit.PNG)
 
 * selamat, Git sudah terinstal di windows. untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah git-version.
+
+![download git-version](coding-git/git-version)
