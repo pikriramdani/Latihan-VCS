@@ -60,7 +60,7 @@ KELAS   : TI.20.A.1
  * Click kanan pada directory aktif tersebut, dan pilih menu Git Bash, sehinga muncul Git Bash, sehingga muncul Git Bash commad
 
  * Buat directory project praktikum pertama dengan nama latihanVCS
- 
+
  * Sehingga terbentuk satu directory baru dibawahnya, selanjutnya masuk kedalam directory tersebut dengan perintah cd (change directory)
 
 * Directory aktif menjadi: d:/labs_pemrograman1/latihanVCS $ mkdir latihanVCS $ cd latihanVCS
@@ -94,3 +94,9 @@ KELAS   : TI.20.A.1
 * Perubahan berhasil disimpan. $ git commit -m "update README.md"
 
 ![download git-commit](coding-git/git-commit.PNG)
+
+## Membuat Repository Server
+
+* Server repository yang akan kita gunakan adalah [click here](http://github.com)
+
+*
