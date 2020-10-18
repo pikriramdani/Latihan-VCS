@@ -126,4 +126,14 @@ Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New R
 
 * perintah ini akan meminta memasukan username dan password pada akun github.com $ git push -u origin master
 
+![download github-push](coding-git/github.PNG)
+
 ![download git-push](coding-git/git-push.PNG)
+
+## Melihat Hasilnya Pada Server Repository
+
+* Buka laman github.com, arahkan pada repositorynya
+
+* Maka perubahan akan terlihat pada laman tersebut
+
+![download github-view1](coding-git/github-view1)
