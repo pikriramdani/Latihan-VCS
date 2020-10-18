@@ -36,3 +36,21 @@ KELAS   : TI.20.A.1
  * $ git config --global user.email "masukan email anda"
 
  ![download git-user.email](coding-git/git-useremail.PNG)
+
+ ## perintah dasar git
+
+ * git init, perintah untuk membuat repository local
+
+ * git add, perintah untuk menambahkan file baru, atau perubahan file pada staging sebelum proses commit
+
+ * git commit, perintah untuk menyimpan perubahan kedalam database git
+
+ * git push -u original master, perintah untuk mengirim perubahan pada repository local menuju server revository 
+
+ * git clone [url], perintah untuk membuat working directory yang diambil dari repository server
+
+ * git remote add origin [url], perintah untuk menambahkan remote server/repository server pada local repository (working directory) 
+
+ * git pull, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
+
+ ## membuat repository
