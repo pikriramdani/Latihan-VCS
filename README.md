@@ -82,3 +82,15 @@ KELAS   : TI.20.A.1
 * File README.md berhasil dibuat. $ echo "# latihan 1">>README.md
 
 ![download git-latihanvcs](coding-git/git-latihanvcs.PNG)
+
+* Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
+
+* File README.md berhasil ditambahkan. $ git add README.md
+
+## Commit (Menyimpan Perubahan Ke Database)
+
+* Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m "Komentar Commit"
+
+* Perubahan berhasil disimpan. $ git commit -m "File Pertama Saya"
+
+![download git-filepertamasaya]()
