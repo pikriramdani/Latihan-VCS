@@ -53,4 +53,32 @@ KELAS   : TI.20.A.1
 
  * git pull, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
 
- ## membuat repository
+ ## Membuat Repository Local 
+
+ * buka directory aktif, misal: d:/labs_pemrograman1 (buka menggunakan Windows Explorer)
+
+ * click kanan pada directory aktif tersebut, dan pilih menu Git Bash, sehinga muncul Git Bash, sehingga muncul Git Bash commad
+
+ * buat directory project praktikum pertama dengan nama latihan1
+
+ * sehingga terbentuk satu directory baru dibawahnya, selanjutnya masuk kedalam directory tersebut dengan perintah cd (change directory)
+
+* directory aktif menjadi: d:/labs_pemrograman1/latihan1 $ mkdir latihan1 $ cd latihan1
+
+## Membuat Repository Local
+
+* Jalankan perintah git init, untuk membuat repository local.
+
+* Repository baru berhasil di inisialisasi, dengan terbentuknya satu directory hidden dengan nama.git
+
+* pada directory tersebut, semua perubahan pada working directory akan disimpan. $ git init
+
+## Menambahkan File Baru Pada Repository 
+
+* Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktor aktif (repository) 
+
+* disini kita akan coba buat satu file bernama README.md(text file)
+
+* file README.md berhasil dibuat. $ echo "# latihan 1">>README.md
+
+![download git-latihanvcs](coding-git/git-latihanvcs.PNG)
