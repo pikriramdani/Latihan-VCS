@@ -126,7 +126,7 @@ Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New R
 
 * perintah ini akan meminta memasukan username dan password pada akun github.com $ git push -u origin master
 
-![download github-push](coding-git/github.PNG)
+![download github-push](coding-git/github-push.PNG)
 
 ![download git-push](coding-git/git-push.PNG)
 
@@ -136,4 +136,4 @@ Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New R
 
 * Maka perubahan akan terlihat pada laman tersebut
 
-![download github-view1](coding-git/github-view1)
+![download github-view1](coding-git/github-view1.PNG)
