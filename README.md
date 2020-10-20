@@ -7,7 +7,6 @@ NIM     : 312010162
 
 KELAS   : TI.20.A.1
 
-* TEknik
 
 ## Langkah-Langkah Penggunaan Git
 
@@ -31,11 +30,11 @@ KELAS   : TI.20.A.1
 
  * apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit
 
- * config global repository $ git config --global user.name "masukan nama anda"
+ * config global repository $ git config --global user.name "masukan nama anda" <br>
 
 ![download git-username](coding-git/git-username.PNG)
 
- * $ git config --global user.email "masukan email anda"
+ * $ git config --global user.email "masukan email anda" <br>
 
  ![download git-user.email](coding-git/git-useremail.PNG)
 
