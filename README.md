@@ -92,7 +92,7 @@ KELAS   : TI.20.A.1
 
 * Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m "Komentar Commit"
 
-* Perubahan berhasil disimpan. $ git commit -m "update README.md"
+ `Perubahan berhasil disimpan. $ git commit -m "update README.md"` <br>
 
 ![download git-commit](coding-git/git-commit.PNG)
 
@@ -102,7 +102,7 @@ KELAS   : TI.20.A.1
 
 * Anda harus membuat akun terlebih dahulu 
 
-Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New Repository
+`Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New Repository`<br>
 
 ![download github-createnew](coding-git/github-createnew.PNG)
 
@@ -125,7 +125,7 @@ Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New R
 
 * Untuk mengirim perubahan pada local repository ke server gunakan perintah git push
 
-* perintah ini akan meminta memasukan username dan password pada akun github.com $ git push -u origin master
+ `perintah ini akan meminta memasukan username dan password pada akun github.com $ git push -u origin master` <br>
 
 ![download github-push](coding-git/github-push.PNG)
 
@@ -143,7 +143,7 @@ Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New R
 
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu directory sesuai dengan nama repositorynya (working directory)
 
-* untuk melakukan cloning, gunakan perintah git clone [url]
+ `untuk melakukan cloning, gunakan perintah git clone [url]` <br>
 
 ![download git-clone](coding-git/git-clone.PNG)
 
