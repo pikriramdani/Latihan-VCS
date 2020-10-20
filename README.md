@@ -30,11 +30,11 @@ KELAS   : TI.20.A.1
 
  * apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit
 
- * config global repository $ git config --global user.name "masukan nama anda" <br>
+  `config global repository $ git config --global user.name "masukan nama anda"` <br>
 
 ![download git-username](coding-git/git-username.PNG)
 
- * $ git config --global user.email "masukan email anda" <br>
+  `$ git config --global user.email "masukan email anda"` <br>
 
  ![download git-user.email](coding-git/git-useremail.PNG)
 
@@ -80,7 +80,7 @@ KELAS   : TI.20.A.1
 
 * Disini kita akan coba buat satu file bernama README.md(text file)
 
-* File README.md berhasil dibuat. $ echo "#latihanVCS">>README.md
+ `File README.md berhasil dibuat. $ echo "#latihanVCS">>README.md` <br>
 
 ![download git-latihanvcs](coding-git/git-latihanvcs.PNG)
 
