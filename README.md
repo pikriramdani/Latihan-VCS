@@ -30,11 +30,11 @@ KELAS   : TI.20.A.1
 
  * apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit
 
-  `config global repository $ git config --global user.name "masukan nama anda"` <br>
+* `config global repository $ git config --global user.name "masukan nama anda"` <br>
 
 ![download git-username](coding-git/git-username.PNG)
 
-  `$ git config --global user.email "masukan email anda"` <br>
+* `$ git config --global user.email "masukan email anda"` <br>
 
  ![download git-user.email](coding-git/git-useremail.PNG)
 
@@ -80,7 +80,7 @@ KELAS   : TI.20.A.1
 
 * Disini kita akan coba buat satu file bernama README.md(text file)
 
- `File README.md berhasil dibuat. $ echo "#latihanVCS">>README.md` <br>
+* `File README.md berhasil dibuat. $ echo "#latihanVCS">>README.md` <br>
 
 ![download git-latihanvcs](coding-git/git-latihanvcs.PNG)
 
@@ -92,7 +92,7 @@ KELAS   : TI.20.A.1
 
 * Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m "Komentar Commit"
 
- `Perubahan berhasil disimpan. $ git commit -m "update README.md"` <br>
+* `Perubahan berhasil disimpan. $ git commit -m "update README.md"` <br>
 
 ![download git-commit](coding-git/git-commit.PNG)
 
@@ -102,7 +102,7 @@ KELAS   : TI.20.A.1
 
 * Anda harus membuat akun terlebih dahulu 
 
-`Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New Repository`<br>
+* `Pada laman github, klik tombol star a project, atau dari menu (icon+) klik New Repository`<br>
 
 ![download github-createnew](coding-git/github-createnew.PNG)
 
@@ -125,7 +125,7 @@ KELAS   : TI.20.A.1
 
 * Untuk mengirim perubahan pada local repository ke server gunakan perintah git push
 
- `perintah ini akan meminta memasukan username dan password pada akun github.com $ git push -u origin master` <br>
+* `perintah ini akan meminta memasukan username dan password pada akun github.com $ git push -u origin master` <br>
 
 ![download github-push](coding-git/github-push.PNG)
 
@@ -143,7 +143,7 @@ KELAS   : TI.20.A.1
 
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu directory sesuai dengan nama repositorynya (working directory)
 
- `untuk melakukan cloning, gunakan perintah git clone [url]` <br>
+* `untuk melakukan cloning, gunakan perintah git clone [url]` <br>
 
 ![download git-clone](coding-git/git-clone.PNG)
 
